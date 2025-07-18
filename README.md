@@ -24,7 +24,7 @@ This project demonstrates how to control four servo motors using an Arduino boar
 
 The following diagram shows how 4 servo motors are connected to the Arduino.
 
-![Circuit Diagram](Sync Servo Motors.png)
+![Circuit Diagram](https://github.com/Joury-Saleh/Arduino-Servo-Motors/blob/main/Sync%20Servo%20Motors.png)
 
 - Servo 1 → D3
 - Servo 2 → D5

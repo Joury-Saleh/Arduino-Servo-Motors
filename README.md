@@ -31,7 +31,7 @@ The following diagram shows how 4 servo motors are connected to the Arduino.
 - Servo 3 → D6
 - Servo 4 → D9
 - All red wires to 5V
-- All black/brown wires to GND
+- All brown wires to GND
 
 You can view and simulate the project here:  
 [Open in Tinkercad](https://www.tinkercad.com/things/7f0ep6GCocc-sync-servo-motors?sharecode=wWZR7hOuchhKzRQj9VUy6ujsYl_sSPcQoPwDH1XkEVA)

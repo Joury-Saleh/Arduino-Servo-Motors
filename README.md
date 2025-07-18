@@ -11,7 +11,7 @@ This project demonstrates how to control four servo motors using an Arduino boar
 
 
 ## Execution Logic
-
+```
 1. Attach 4 servos to PWM pins (3, 5, 6, 9)
 2. Start timing using millis()
 3. While within 2 seconds:
@@ -19,12 +19,12 @@ This project demonstrates how to control four servo motors using an Arduino boar
    → Use millis() to exit early if needed
 4. After 2 seconds:
    → All servos are set and held at 90°
-
+```
 ##  Circuit Design
 
 The following diagram shows how 4 servo motors are connected to the Arduino.
 
-![Circuit Diagram](./servo-circuit.png)
+![Circuit Diagram](Sync Servo Motors.png)
 
 - Servo 1 → D3
 - Servo 2 → D5
